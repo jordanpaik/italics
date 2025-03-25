@@ -1,0 +1,23 @@
+* {
+    background-color: #E8EAF6;
+}
+
+body {
+    display: flex;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: #CED2E6;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #605A60;
+}
+
+h3 {
+    font-family:
+}
