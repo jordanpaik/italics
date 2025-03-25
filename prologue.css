@@ -19,5 +19,33 @@ h1 {
 }
 
 h3 {
-    font-family: sans-serif;
+    font-family: 'DM Sans', serif;
+    font-size: 17px;
+    font-style: italic;
+    color: #605A60;
 }
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: #605A60;
+    font-family: 'DM Sans', serif;
+    text-decoration: none;
+}
+
+a:hover {
+    text-align: right;
+    background-color: #797D94;
+    color: #CED2E6;
+}
+
+a:active {
+    text-align: right;
+    background-color: #797D94;
+    color: #CED2E6;
+}
+
+/*end of header*/
